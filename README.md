@@ -1,2 +1,2 @@
-# gp120_transition
-gp120_transition
+# HIV-1 gp120 conformation transition
+[transition](./for_phd/transition.gif)
